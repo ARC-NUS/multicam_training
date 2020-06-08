@@ -1,0 +1,9 @@
+/home/sf/darknet/CMakeFiles/install/strip.dir
+/home/sf/darknet/CMakeFiles/install/local.dir
+/home/sf/darknet/CMakeFiles/install.dir
+/home/sf/darknet/CMakeFiles/uselib.dir
+/home/sf/darknet/CMakeFiles/edit_cache.dir
+/home/sf/darknet/CMakeFiles/rebuild_cache.dir
+/home/sf/darknet/CMakeFiles/darknet.dir
+/home/sf/darknet/CMakeFiles/dark.dir
+/home/sf/darknet/CMakeFiles/list_install_components.dir

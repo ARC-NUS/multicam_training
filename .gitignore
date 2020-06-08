@@ -1,3 +1,9 @@
+test/
+backup/
+prediction_samples/
+data/coco/
+.ipynb_checkpoints/
+
 *.o
 *.a
 *.dSYM
