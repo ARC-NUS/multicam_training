@@ -15,14 +15,14 @@ bad.list
 mnist/
 
 test/
-backup/
+backup/*
 prediction_samples/
 data/coco/
 .ipynb_checkpoints/
 !data/
 !data/labels/*
 
-
+.circleci/
 caffe/
 grasp/
 images/
@@ -30,7 +30,11 @@ opencv/
 convnet/
 decaf/
 submission/
-cfg/
+cfg/*
+!cfg/yolov3-medium_3l_3classes_512_vru21k_ST_train.cfg
+!backup/yolov3-medium_3l_3classes/
+!backup/yolov3-medium_3l_3classes/vru21k_512channels/
+!backup/yolov3-medium_3l_3classes/vru21k_512channels/yolov3-tiny_3l_3classes_vru2k_last_forvru21kTL.conv.13
 build/darknet/*
 build_*/
 !build/darknet/YoloWrapper.cs
