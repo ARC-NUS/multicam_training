@@ -32,6 +32,7 @@ decaf/
 submission/
 cfg/*
 !cfg/yolov3-medium_3l_3classes_512_vru21k_ST_train.cfg
+!cfg/NUS_training.data
 !backup/yolov3-medium_3l_3classes/
 !backup/yolov3-medium_3l_3classes/vru21k_512channels/
 !backup/yolov3-medium_3l_3classes/vru21k_512channels/yolov3-tiny_3l_3classes_vru2k_last_forvru21kTL.conv.13
